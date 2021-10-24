@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayogluteoman" alt="bayogluteoman" /> </p>
 
 
-<p align="center"><strong>I'm a computer engineering student at Eskisehir Technical University. It's my 3rd grade.</strong></p>
+<p align="center"><strong>I'm a computer engineering student at Eskisehir Technical University. It's my 4th grade.</strong></p>
 <br><br>
 
 - 🌱 I’m currently learning  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="charp" width="30" height="30"/>
