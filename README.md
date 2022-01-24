@@ -15,6 +15,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-origi
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="charp" width="30" height="30"/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bayogluteoman&show_icons=true" alt="bayogluteoman" /></p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayogluteoman" alt="barChart" /></p>
+
+
 <!--
 **bayogluteoman/bayogluteoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
