@@ -9,12 +9,12 @@
 
 - <p><strong>I’m currently learning</strong></p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" height="30"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="charp" width="30" height="30"/> 
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" height="30"> 
 
 - <p><strong>Programming languages I have worked before:</strong></p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="charp" width="30" height="30"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="charp" width="30" height="30"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="charp" width="30" height="30"/> 
+src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="charp" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="charp" width="30" height="30"/> 
 
  <h2 align="center">How to reach me 📫</h2>
 
